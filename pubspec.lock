@@ -67,6 +67,14 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  generic_bloc_provider:
+    dependency: "direct main"
+    description:
+      name: generic_bloc_provider
+      sha256: "2acc6ddb7ba4ac50a330ee9938db814a41f3b9f4843a85d4910f1313d7fd476d"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.0"
   js:
     dependency: transitive
     description:
@@ -170,3 +178,4 @@ packages:
     version: "2.1.4"
 sdks:
   dart: ">=2.18.0 <3.0.0"
+  flutter: ">=1.17.0"

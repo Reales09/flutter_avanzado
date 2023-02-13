@@ -56,6 +56,12 @@
       "languageVersion": "2.17"
     },
     {
+      "name": "generic_bloc_provider",
+      "rootUri": "file:///C:/Users/rclar/AppData/Local/Pub/Cache/hosted/pub.dev/generic_bloc_provider-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
       "name": "js",
       "rootUri": "file:///C:/Users/rclar/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.5",
       "packageUri": "lib/",
@@ -140,7 +146,7 @@
       "languageVersion": "2.0"
     }
   ],
-  "generated": "2023-02-07T06:52:56.367616Z",
+  "generated": "2023-02-13T05:01:28.065040Z",
   "generator": "pub",
   "generatorVersion": "2.19.1"
 }
